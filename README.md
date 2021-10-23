@@ -7,7 +7,7 @@ The repository contains the code of getting shortest path using Ant Colony Optim
 First of all, clone this repository using:
 
 ```ruby
-      git clone "https://github.com/Agha-Muqarib/Ant-Colony-Optimization-in-Python.git"
+      git clone https://github.com/Agha-Muqarib/Ant-Colony-Optimization-in-Python.git
 ```
 
 Open your favorite Python IDE and run the following command in terminal
