@@ -1,6 +1,6 @@
 # Ant-Colony-Optimization-in-Python
 
-The repository contains the code of getting shortest path using Ant Colony Optimization in Python. The shortest path is determined with pheromone taken into account. The library used is ACO-pants.
+The repository contains the code of getting shortest path using Ant Colony Optimization in Python. Ant Colony Optimization (ACO) is a modern and very popular optimization paradigm inspired by the ability of ant colonies to find shortest paths between their nest and a food source. The shortest path is determined with pheromone taken into account. The library used is ACO-pants.
 
 ## Getting Started
 
