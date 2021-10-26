@@ -16,4 +16,4 @@ Open your favorite Python IDE and run the following command in terminal
       pip install ACO-pants
 ```
 
-Once done, you can simply run the code provided.
+Once done, you can simply run the code provided in code file.
